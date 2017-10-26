@@ -1,3 +1,6 @@
+//Denise Dreyer
+//October 26, 2017
+
 import java.util.Arrays;
 
 public class Split 
